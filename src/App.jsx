@@ -14,6 +14,7 @@ const App = () => {
       <Title subTitle='Our Programs' title='What we offer'/>
       <Programs/>
       <About/>
+      <Title subTitle='Gallery' title='Campus Photos'/>
     </div>
     </div>
   )
