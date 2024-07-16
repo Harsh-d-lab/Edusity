@@ -1,5 +1,4 @@
-import React, { useState } from 'react'
-import Navbar from './Components/Navbar/Navbar'
+import { useState } from 'react'
 import Hero from './Components/Hero/Hero'
 import Programs from './Components/Programs/Programs'
 import Title from './Components/Title/Title'
@@ -9,6 +8,7 @@ import Testimonials from './Components/Testimonials/Testimonials'
 import Contact from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer'
 import VideoPlayer from './Components/Player/Player'
+import Navbar from './Components/Navbar'
 
 const App = () => {
 
